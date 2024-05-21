@@ -1,1 +1,1 @@
-print("helo")
+print("hello    zouerate    snim or sth like that ")
